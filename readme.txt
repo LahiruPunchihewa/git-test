@@ -9,3 +9,5 @@ hiiii I am ieshiiiii
 Let's not say Hi ! ;)
 
 Let's do a project
+
+work hard play hard !
