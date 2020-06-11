@@ -1,1 +1,1 @@
-I have removed the bug
+I have resolved the bug
