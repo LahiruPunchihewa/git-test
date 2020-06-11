@@ -1,2 +1,1 @@
-Hello World
-This is a the lastest change
+I have removed the bug
