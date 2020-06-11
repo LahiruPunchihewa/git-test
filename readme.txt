@@ -10,4 +10,4 @@ Let's not say Hi ! ;)
 
 Let's do a project
 
-work hard play hard !
+choose wisely !
